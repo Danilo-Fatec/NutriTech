@@ -12,7 +12,7 @@
 |:-------:| --------------------- |---------------------------------------------- |
 |  1  | :calendar:  ➡ (17/09/2024) |
 |  2  | :calendar:  ➡ (08/10/2024) |
-|  3  | :calendar:  ➡ (08/11/2024  |
+|  3  | :calendar:  ➡ (08/11/2024)  |
 
 |       DESAFIO       |    
 |O objetivo é especificar e construir uma aplicação web que permita aos usuários registrar e monitorar a ingestão diária de calorias e nutrientes, auxiliando no controle da alimentação e na manutenção da saúde.
